@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/docsgpt?utm_medium=integration&utm_source=button&utm_campaign=docsgpt)
+
 # DocsGPT on Railway
 
 A Railway template for [DocsGPT](https://github.com/arc53/DocsGPT) (MIT), the open-source AI assistant that answers from your own documents: upload files or crawl sites, chat with cited answers, build agents with tools and schedules, and call them through a chat widget or an OpenAI-compatible API.
